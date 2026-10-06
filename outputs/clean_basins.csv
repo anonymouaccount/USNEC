@@ -1,0 +1,563 @@
+nom,nom_du_bassin,volume,cours_d_eau_associé,voie_associée,st_area(shape),st_length(shape)
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,442.344657246298,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1161.64661379331,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,970.310172519906,0.0
+Bassin Pluvial,Mas Vanneau,800.0,Verdanson,Av. du Professeur Louis Ravas,1843.85356989458,0.0
+Bassin Pluvial,Saint Hilaire,800.0,Verdanson,Rue de Saint Hilaire,911.983712045833,0.0
+Bassin Pluvial,Mas d'Astre,800.0,Verdanson,Jean François Gossec,851.176406856823,0.0
+Bassin Pluvial,Zac Parc 2000 - 3,800.0,Verdanson,Rue Mohamed 5,1475.87624983361,0.0
+Bassin Pluvial,ZAC Parc 2000 - 1,800.0,Verdanson,Carrefour Spaak - av. de la Liberté,967.217891142569,0.0
+Bassin Pluvial,ZAC Parc 2000 - 2,800.0,Verdanson,rue de Font Caude,1158.40213524034,0.0
+Bassin Pluvial,ZAC Parc 2000 - 6,800.0,Verdanson,av. Pablo Néruda,3063.91874541535,0.0
+Bassin Pluvial,ZAC Parc 2000 - 5,800.0,Verdanson,Rue Marius Petipa,2238.18887393092,0.0
+Bassin Pluvial,Lyre,800.0,Verdanson,Av. des Moulins - RD 65,3311.22068502436,0.0
+Bassin Pluvial,Montferrier,800.0,Verdanson,Av. Vincent Auriol - RD 65,5284.40228218844,0.0
+Bassin Pluvial,Arthur Young,800.0,Verdanson,Rue Jean François Breton,1011.00992619276,0.0
+Bassin Pluvial,Véga,800.0,Verdanson,Av. Val de Montferrand,8647.22332203932,0.0
+Bassin GEMAPI,Colombière,800.0,Font d'Aurelle,Avenue des Variolites,16130.0914704718,0.0
+Bassin GEMAPI,Transparence Lez-Lironde,800.0,Lez,Avenue des Variolites,11649.2041661083,0.0
+Bassin GEMAPI,Transparence Lez-Lironde,800.0,Lez,Avenue des Variolites,64017.0401903987,0.0
+Bassin GEMAPI,Mogère,800.0,Nègue Cat,Avenue des Variolites,173621.947735552,0.0
+Bassin GEMAPI,Lironde 1,800.0,Lironde,Avenue des Variolites,4447.57762784743,0.0
+Bassin GEMAPI,Parc Marianne,800.0,Lironde,Avenue des Variolites,58857.2550694606,0.0
+Bassin GEMAPI,Lironde 2,800.0,Lironde,Avenue des Variolites,3407.98514741684,0.0
+Bassin GEMAPI,Lironde 4,800.0,Lironde,Avenue des Variolites,4681.77754588451,0.0
+Bassin GEMAPI,Malbosc 1,800.0,Verdanson,Avenue des Variolites,2058.18877924889,0.0
+Bassin Pôles 3M,PCB_CAS08,800.0,Verdanson,Avenue des Variolites,75.8975832233519,0.0
+Bassin GEMAPI,Lironde 3,800.0,Lironde,Avenue des Variolites,3633.89671496302,0.0
+Bassin Pluvial,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,4697.92902898614,0.0
+Bassin Pluvial,Jardin de la Lironde,800.0,Verdanson,Rue Fra Angélico,2025.4684393143,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1855.68225544932,0.0
+Bassin autre,Lycée Jean Monnet,800.0,Verdanson,Avenue des Variolites,6586.28168970951,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,474.184722679652,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1057.23256430382,0.0
+Bassins Enterré,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,660.799115098432,0.0
+Bassins Enterré,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,14.2736499447143,0.0
+Bassins Enterré,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,3.80130579021092,0.0
+Bassin autre,SNCF,800.0,Verdanson,Avenue des Variolites,879.874244082621,0.0
+Bassin autre,SNCF,800.0,Verdanson,Avenue des Variolites,1808.55156088712,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1659.8139323944,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1272.31758148126,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,6891.94080274783,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,238.593584767891,0.0
+Bassin Pluvial,Garosud,800.0,Rieucoulon,Av. Etienne Méhul,8924.98612203853,0.0
+Bassin autre,Aqueduc,800.0,Verdanson,René Etiemble,1343.21357633331,0.0
+Bassin Pôles 3M,PPO_CEC04,875.0,Verdanson,Avenue des Variolites,1207.04963882721,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,279.684939635413,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,238.861425415357,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,15408.0191037594,0.0
+Bassin autre,Sabines,800.0,Hirondelle,Avenue des Variolites,2837.3766073581,0.0
+Bassins Enterré,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,53.8139640254021,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,244.310729029672,0.0
+Bassin GEMAPI,Henri Roseau,800.0,Rieucoulon,Avenue des Variolites,17425.5519603734,0.0
+Bassin GEMAPI,Malbosc 4,800.0,Verdanson,Avenue des Variolites,962.704311093403,0.0
+Bassin GEMAPI,Malbosc6,800.0,Verdanson,Avenue des Variolites,5255.65537675245,0.0
+Bassin GEMAPI,Valsière,800.0,Font d'Aurelle,Avenue des Variolites,5629.1020220209,0.0
+Bassin GEMAPI,Malbosc 7,800.0,Verdanson,Avenue des Variolites,3672.82987978456,0.0
+Bassin GEMAPI,Malbosc 2,800.0,Verdanson,Avenue des Variolites,3581.08602769376,0.0
+Bassin GEMAPI,Malbosc 5,800.0,Verdanson,Avenue des Variolites,2552.53308924972,0.0
+Bassin Pôles 3M,PCB_CAS07,800.0,Verdanson,Avenue des Variolites,156.381041522079,0.0
+Bassin Pôles 3M,PPG_JUV04,60.0,Verdanson,Rue du Béal du Moulin,124.335319725599,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,2405.98582099777,0.0
+Bassin Pôles 3M,PCB_SDR06,800.0,Verdanson,Avenue des Variolites,2683.16091117243,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,3468.07864821807,0.0
+Bassin Pôles 3M,PPG_GRA02,150.0,Verdanson,Rond Point du Redonnel,328.311950393331,0.0
+Bassin Pôles 3M,PPG_GRA05,200.0,Verdanson,Rue du Bosquet,1249.6233721156,0.0
+Bassins Enterré,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,42.1630862951494,0.0
+Bassins Enterré,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,27.3303233936731,0.0
+Bassin Pôles 3M,PPG_GRA06,1500.0,Verdanson,Rue des Carignans,1543.32226495116,0.0
+Bassin Pôles 3M,PL_PER04,400.0,Verdanson,Rue des Pastenagues,858.118322941261,0.0
+Bassin Pôles 3M,PPG_GRA07,75.0,Verdanson,Rue Pierre Couder,150.453772609105,0.0
+Bassin Pôles 3M,PPG_GRA01,500.0,Verdanson,RD127,910.584401768259,0.0
+Bassin Pôles 3M,PPG_GRA08,300.0,Verdanson,Rue du chateau angle rte de Bel Air,781.916248045053,0.0
+Bassin Pôles 3M,PL_VIL02,1200.0,Verdanson,RD116,1367.26048062959,0.0
+Bassin Pôles 3M,PL_VIL01,200.0,Verdanson,RD116,684.78558317411,0.0
+Bassin Pôles 3M,PL_PER03,200.0,Verdanson,Rue des Pastenagues,477.991302172439,0.0
+Bassin Pôles 3M,PVL_CRE10,800.0,Verdanson,Avenue des Variolites,480.939263941688,0.0
+Bassin Pôles 3M,PPG_GRA04,1300.0,Verdanson,Chemin du Redonnel,2872.59163224245,0.0
+Bassin Pôles 3M,PL_VIL03,2000.0,Verdanson,Avenue des Variolites,3688.69570581753,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,626.274970739178,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,2165.25957960616,0.0
+Bassin Pôles 3M,PL_PER02,200.0,Verdanson,Rue des Daphnies,619.468986466686,0.0
+Bassin Pôles 3M,PL_PER06,20.0,Verdanson,Rue Charles Amans,44.7318872611644,0.0
+Bassin Pôles 3M,PPG_JUV05,1500.0,Verdanson,Av. de Perret,1131.24482002616,0.0
+Bassin Pôles 3M,PPG_JUV03,200.0,Verdanson,rue du Grand Chêne Blanc,445.180374382651,0.0
+Bassin Pôles 3M,PPG_JUV08,500.0,Verdanson,Rue Prométhée,739.739822574038,0.0
+Bassin Pôles 3M,PL_LAT02,300.0,Verdanson,Chemin du Mas Rouge,1010.66004166039,0.0
+Bassin Pôles 3M,PPG_JUV09,500.0,Verdanson,Rue des Sonneurs,1211.11827929244,0.0
+Bassin Pôles 3M,PPG_JUV07,1500.0,23 rue des Veneurs,Avenue des Variolites,1220.63950338763,0.0
+Bassin Pôles 3M,PL_LAT06,800.0,Verdanson,Avenue des Variolites,456.444303431117,0.0
+Bassin Pôles 3M,PCB_SDR03,475.0,Verdanson,Avenue des Variolites,1034.06201633508,0.0
+Bassin Pôles 3M,PL_LAT04,600.0,Verdanson,Av. des Moutouzères,1707.40518309379,0.0
+Bassin Pôles 3M,PPG_GRA10,800.0,Verdanson,RD 127 (Valmaillargues),2216.50176071358,0.0
+Bassin Pôles 3M,PL_PER05,200.0,Verdanson,Rue des Adrets,1029.10521154891,0.0
+Bassin Pôles 3M,PPG_GRA12,800.0,Verdanson,RD127 (Valmaillargues),447.155297856791,0.0
+Bassin Pôles 3M,PL_PER07,1500.0,Verdanson,Le Fenouillet,2120.61370674351,0.0
+Bassin Pôles 3M,PL_PER08,5000.0,Verdanson,Le Fenouillet,6287.26594037175,0.0
+Bassin Pôles 3M,PL_PER10,600.0,Verdanson,Rue Eric Tabarly,1752.60019764651,0.0
+Bassin Pôles 3M,PL_PER13,1500.0,Verdanson,Rue Cristobal Soriano,2065.5550845546,0.0
+Bassin Pôles 3M,PVL_MSL05,360.0,Verdanson,145 rue des Micocouliers,758.121328193375,0.0
+Bassin Pôles 3M,PCB_SGM04,800.0,Verdanson,Avenue des Variolites,2234.04102953986,0.0
+Bassin Pôles 3M,PL_VIL06,1000.0,Verdanson,Rue du Marbella,1319.1508355764,0.0
+Bassin Pôles 3M,PL_VIL07,800.0,2000,Boulevard des Moures,3576.50635736418,0.0
+Bassin Pôles 3M,PPG_GRA09,800.0,Verdanson,RD 127 (Valmaillargues),1624.07636293747,0.0
+Bassin Pôles 3M,PCB_SGM03,800.0,Verdanson,Avenue des Variolites,2439.70229692495,0.0
+Bassin Pôles 3M,PL_PER14,600.0,Verdanson,RD 172,622.797942063374,0.0
+Bassin Pôles 3M,PL_VIL04,2000.0,Verdanson,Avenue des Variolites,3316.37135303633,0.0
+Bassin Pôles 3M,PL_VIL05,500.0,Verdanson,Rue de Figuières,848.813838107963,0.0
+Bassin Pôles 3M,PPG_GRA13,100.0,Verdanson,Route de Bel Air,1104.10902022652,0.0
+Bassin Pôles 3M,PL_PER11,15.0,Verdanson,Rue des Vendanges,114.942120277979,0.0
+Bassin Pôles 3M,PPG_JUV01  ,2000.0,Verdanson,Rue des Terres du Sud,1302.99561399803,0.0
+Bassin Pôles 3M,PPG_GRA11,500.0,Verdanson,RD 127 (RD 986),506.174517917397,0.0
+Bassin Pôles 3M,PPG_JUV14,800.0,Verdanson,Avenue des Variolites,463.612863754006,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,174.184644425731,0.0
+Bassin Pôles 3M,PVL_CLL24,800.0,Verdanson,Avenue des Variolites,315.198294228349,0.0
+Bassin Pôles 3M,PVL_CLL04,375.0,Verdanson,Rue Aube rouge,539.334738113483,0.0
+Bassin Pôles 3M,PVL_CLL28,800.0,Verdanson,Avenue des Variolites,663.841022287794,0.0
+Bassin Pôles 3M,PVL_CLL07,350.0,Verdanson,Rue d'Aquitaine,111.858914528786,0.0
+Bassin Pôles 3M,PVL_CLL11,1350.0,Verdanson,Ch Pech de Saint Peyre/ Ch de Malabesse,2677.98188385963,0.0
+Bassin Pôles 3M,PL_PER09,80.0,Verdanson,Rue de la Comète,97.6662010232012,0.0
+Bassin Pôles 3M,PPG_MUR02,750.0,Verdanson,RD 27,768.720857660146,0.0
+Bassin Pôles 3M,PPG_MUR01,600.0,Verdanson,RD 27,670.959875854994,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1969.9004961807,0.0
+Bassin Pôles 3M,PPG_SGO04,60.0,Verdanson,Rue des Asphodèles,146.33457645167,0.0
+Bassin Pôles 3M,PPG_SGO05,2500.0,Verdanson,Avenue des Variolites,3701.90845452694,0.0
+Bassin Pôles 3M,PVL_JAC11,300.0,Verdanson,"Rond-point M112, près de rue Blanchemain",472.123478043344,0.0
+Bassin Pôles 3M,PPG_SGO01,5000.0,Verdanson,Rue de la Gaillarde,5948.39598558525,0.0
+Bassin Pôles 3M,PCB_SGM02,800.0,Verdanson,Avenue des Variolites,2151.55574748401,0.0
+Bassin Pôles 3M,PCB_SGM05,800.0,Verdanson,Avenue des Variolites,1928.70590723096,0.0
+Bassin Pôles 3M,PVL_CLL10,370.0,Verdanson,Rue du Dauphiné,217.894495227616,0.0
+Bassin Pôles 3M,PCB_BAI02,800.0,Verdanson,Avenue des Variolites,6039.30184134148,0.0
+Bassin Pôles 3M,PPG_SGO06 ,800.0,500,Rue des Chanterelles,729.988903815118,0.0
+Bassin Pôles 3M,PPO_SJV01,10000.0,Verdanson,Avenue des Variolites,6975.46596779776,0.0
+Bassin Pôles 3M,PCB_SGM06,800.0,Verdanson,Avenue des Variolites,2793.20986869096,0.0
+Bassin Pôles 3M,PPG_SGO02,100.0,Verdanson,Rue des Asphodèles,192.045226446555,0.0
+Bassin Pôles 3M,PPG_SGO03,500.0,Verdanson,Rue Lou Perdigal,394.053067838852,0.0
+Bassin Pôles 3M,PCB_CAS03,800.0,Verdanson,Avenue des Variolites,4329.50954542358,0.0
+Bassin Pôles 3M,PVL_CRE04,470.0,Verdanson,Rue François Mitterrand,624.63854825062,0.0
+Bassin Pôles 3M,PVL_CRE05,540.0,Verdanson,Rue François Mitterrand,720.271226111524,0.0
+Bassin autre,Place Eugène Bataillon,189.0,Verdanson,Avenue des Variolites,183.406226988432,0.0
+Bassin Pôles 3M,PVL_CLL25,800.0,Verdanson,Avenue des Variolites,742.942596521998,0.0
+Bassin Pôles 3M,PPO_FAB05,4400.0,Verdanson,Avenue des Variolites,2521.07253361134,0.0
+Bassin Pôles 3M,PCB_SGM01,800.0,Verdanson,Avenue des Variolites,2238.84288039311,0.0
+Bassin Pôles 3M,PCB_BAI01,800.0,Verdanson,Avenue des Variolites,5990.03065224575,0.0
+Bassin Pôles 3M,PVL_CLL08,275.0,Verdanson,Rue de Picardie,389.509187821596,0.0
+Bassin Pôles 3M,PVL_PDL04,1200.0,Verdanson,Rue Gaspard Monge,1089.58178350704,0.0
+Bassin Pôles 3M,PVL_PDL01,6000.0,Verdanson,Rue de la Peyrade ,4521.82432207668,0.0
+Bassin Pôles 3M,PVL_PDL03,450.0,Verdanson,Route de vendargue,815.298999767674,0.0
+Bassin Pôles 3M,PVL_PDL02,400.0,Verdanson,Route de Vendargue,374.030461262663,0.0
+Bassin Pôles 3M,PPO_FAB06,750.0,Verdanson,Avenue des Variolites,844.905614673524,0.0
+Bassin autre,Mairie,800.0,Lez,Avenue des Variolites,6031.88684768182,0.0
+Bassin Pôles 3M,PCB_BAI05,800.0,Verdanson,Avenue des Variolites,1959.03168808674,0.0
+Bassin Pôles 3M,PCB_CAS02,800.0,Verdanson,Avenue des Variolites,7711.28071783562,0.0
+Bassin Pôles 3M,PPO_CEC02,800.0,Verdanson,Avenue des Variolites,7310.35200596406,0.0
+Bassin Pôles 3M,PCB_BEA01,800.0,Verdanson,Avenue des Variolites,13617.8373293504,0.0
+Bassin Pôles 3M,PPO_FAB03,1020.0,Verdanson,Avenue des Variolites,366.885040455735,0.0
+Bassin Pôles 3M,PPO_SJV02,700.0,Verdanson,Avenue des Variolites,811.697511570856,0.0
+Bassin Pôles 3M,PCB_BEA02,800.0,Verdanson,Avenue des Variolites,854.694822237713,0.0
+Bassin Pôles 3M,PPO_FAB03,1020.0,Verdanson,Avenue des Variolites,362.565786139615,0.0
+Bassin Pôles 3M,PCB_CAS04,800.0,Verdanson,Avenue des Variolites,2496.04417152388,0.0
+Bassin Pôles 3M,PVL_CLA10,800.0,Verdanson,Rond-point de Jacou / Bd de la Liberté ,463.412607922087,0.0
+Bassin Pôles 3M,PPO_CAL08,11000.0,Verdanson,Avenue des Variolites,5391.39404696042,0.0
+Bassin Pôles 3M,PCB_BAI03,800.0,Verdanson,Avenue des Variolites,795.360619918181,0.0
+Bassin Pôles 3M,PCB_BAI04,800.0,Verdanson,Avenue des Variolites,1357.39927805365,0.0
+Bassin Pôles 3M,PCB_BAI10,800.0,Verdanson,Avenue des Variolites,1042.02856171024,0.0
+Bassin Pôles 3M,PPO_CAL07,1800.0,Verdanson,Avenue des Variolites,3200.8571449501,0.0
+Bassin Pôles 3M,PPO_CAL06,9800.0,Verdanson,Avenue des Variolites,5441.93014990048,0.0
+Bassin Pôles 3M,PVL_CRE03,5200.0,Verdanson,amont du BR044 / M65,2888.02644318048,0.0
+Bassin Pôles 3M,PVL_JAC08,800.0,Verdanson,Rue Malika Mokedem / rue Jean Carrière,5191.19635076648,0.0
+Bassin Pôles 3M,PCB_VEN11,800.0,Verdanson,Avenue des Variolites,12974.5111786897,0.0
+Bassin Pôles 3M,PCB_CAS05,800.0,Verdanson,Avenue des Variolites,1460.43480667213,0.0
+Bassin Pôles 3M,PCB_CAS06,800.0,Verdanson,Avenue des Variolites,4901.56839912637,0.0
+Bassin Pôles 3M,PVL_CLA01,430.0,Verdanson,rue Léopold Sedar Senghor,481.694542552023,0.0
+Bassin Pôles 3M,PVL_CLL17,7000.0,Verdanson,Av Clément Ader,6066.07141562178,0.0
+Bassin Pôles 3M,PVL_PDL05,700.0,Verdanson,Rue Alexandre Neel / ch de Coste Rousse,1633.67966302918,0.0
+Bassin Pôles 3M,PVL_CRE06,495.0,Verdanson,Rue du Faisan/Voie Domitienne,864.008402720729,0.0
+Bassin Pôles 3M,PPO_PIG01,365.0,Verdanson,Avenue des Variolites,471.942218176457,0.0
+Bassin Pôles 3M,PCB_CAS09,800.0,Verdanson,Avenue des Variolites,222.133105294014,0.0
+Bassin Pôles 3M,PPO_PIG02,1900.0,Verdanson,Avenue des Variolites,1782.7070767319,0.0
+Bassin Pôles 3M,PCB_CAS10,800.0,Verdanson,Avenue des Variolites,1648.96786385067,0.0
+Bassin Pôles 3M,PCB_RES02,800.0,Verdanson,Avenue des Variolites,469.353683912745,0.0
+Bassin Pôles 3M,PCB_RES01,800.0,Verdanson,Avenue des Variolites,772.709116237942,0.0
+Bassin Pôles 3M,PCB_RES03,800.0,Verdanson,Avenue des Variolites,5229.81457744076,0.0
+Bassin Pôles 3M,PCB_SDR01,800.0,Verdanson,Avenue des Variolites,2189.00754907376,0.0
+Bassin Pôles 3M,PCB_MON01,800.0,Verdanson,Avenue des Variolites,597.82133312749,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,120.745526335869,0.0
+Bassin Pôles 3M,PPO_SJV04,800.0,Verdanson,Avenue des Variolites,963.741120436325,0.0
+Bassin Pôles 3M,PPO_SJV10,300.0,Verdanson,Avenue des Variolites,448.125549525352,0.0
+Bassin Pôles 3M,PPO_SJV07,2850.0,Verdanson,Avenue des Variolites,3150.73746739009,0.0
+Bassin Pôles 3M,PPO_SJV13,800.0,Verdanson,Avenue des Variolites,11055.2900826775,0.0
+Bassin autre,PPO_SJV09,1000.0,Verdanson,Avenue des Variolites,1256.41042143272,0.0
+Bassin Pôles 3M,PPO_SJV11,4000.0,Verdanson,Avenue des Variolites,2806.58443711786,0.0
+Bassin Pôles 3M,PCB_CAS01,800.0,Verdanson,Avenue des Variolites,4957.1278537395,0.0
+Bassin Pôles 3M,PPO_SJV08,1100.0,Verdanson,Avenue des Variolites,1526.71339022614,0.0
+Bassin Pôles 3M,PPO_SJV05,7000.0,Verdanson,Avenue des Variolites,3864.91227058547,0.0
+Bassin Pôles 3M,PCB_SDR02,800.0,Verdanson,Avenue des Variolites,180.87549355012,0.0
+Bassin Pôles 3M,PCB_SDR05,280.0,Verdanson,Avenue des Variolites,396.339567448317,0.0
+Bassin Pôles 3M,PPO_CAL10,800.0,Verdanson,Avenue des Variolites,1201.35639059929,0.0
+Bassin Pôles 3M,PVL_JAC09,800.0,Verdanson,av de Vendargues / rue Hélios,95.5804185320049,0.0
+Bassin autre,PPO_SJV06,4000.0,Verdanson,Avenue des Variolites,1000.44146271032,0.0
+Bassin Pôles 3M,PCB_VEN04,800.0,Verdanson,Avenue des Variolites,2227.10074957769,0.0
+Bassin Pôles 3M,PPO_FAB07,800.0,Verdanson,Avenue des Variolites,2393.7381479369,0.0
+Bassin Pôles 3M,PPO_LAV01,800.0,Verdanson,Avenue des Variolites,379.651232587468,0.0
+Bassin Pôles 3M,PCB_MON02,800.0,Verdanson,Avenue des Variolites,363.265846623888,0.0
+Bassin Pluvial,ZAC Parc 2000 - 4,800.0,Verdanson,Rue Yves Montand,898.388848040232,0.0
+Bassin Pluvial,ZAC Parc 2000 - 7,800.0,Verdanson,Rue Favre de Saint Castor,786.652255205114,0.0
+Bassin Pluvial,ZAC Parc 2000 - 9,800.0,Verdanson,Rue Maurice Béjar,2822.31826548385,0.0
+Bassin Pôles 3M,PPO_SAU04,2010.0,Verdanson,Avenue des Variolites,1019.81161027088,0.0
+Bassin Pluvial,Eureka,800.0,Verdanson,Rue de la Vieille Poste,4687.42417937847,0.0
+Bassin Pôles 3M,PPO_FAB06,650.0,Verdanson,Avenue des Variolites,774.355078425126,0.0
+Bassin Pluvial,ZAC Parc 2000 - 8,800.0,Verdanson,Rue Maurice Béjar,1544.73912532746,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,176.34087360382,0.0
+Bassin autre,Place Eugène Bataillon,92.0,Verdanson,Avenue des Variolites,345.244511563382,0.0
+Bassin autre,Place Eugène Bataillon,79.0,Verdanson,Avenue des Variolites,249.163078195606,0.0
+Bassin autre,Place Eugène Bataillon,69.0,Verdanson,Avenue des Variolites,460.670095358315,0.0
+Bassin autre,Place Eugène Bataillon,60.0,Verdanson,Avenue des Variolites,308.374938870791,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,480.867930796599,0.0
+Bassin autre,Place Eugène Bataillon,82.0,Verdanson,Avenue des Variolites,398.340278835434,0.0
+Bassin autre,Place Eugène Bataillon,150.0,Verdanson,Avenue des Variolites,508.907500488801,0.0
+Bassin autre,Place Eugène Bataillon,462.0,Verdanson,Avenue des Variolites,784.745070026839,0.0
+Bassin autre,Place Eugène Bataillon,168.0,Verdanson,Avenue des Variolites,629.510946943919,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,124.96456688917,0.0
+Bassin GEMAPI,Grisettes,800.0,Rieucoulon,Avenue des Variolites,23742.7994727648,0.0
+Bassin Pôles 3M,PPO_FAB04,300.0,Verdanson,Avenue des Variolites,728.549114249178,0.0
+Bassin Pôles 3M,PPO_LAV02,800.0,Verdanson,Avenue des Variolites,3032.40381749879,0.0
+Bassin autre,PCB_VEN06,800.0,Verdanson,Avenue des Variolites,3856.50581500019,0.0
+Bassin autre,Place Eugène Bataillon,354.0,Verdanson,Avenue des Variolites,342.29227744653,0.0
+Bassin Pôles 3M,PCB_SDR04,2505.0,Verdanson,Avenue des Variolites,2229.2772104283,0.0
+Bassin autre,Place Eugène Bataillon,105.0,Verdanson,Avenue des Variolites,90.1326891134186,0.0
+Bassin Pôles 3M,PVL_CLA05,1500.0,Verdanson,Avenue des Variolites,1652.28051495408,0.0
+Bassin Pôles 3M,PVL_CLA04,290.0,Verdanson,Avenue des Variolites,214.816952030307,0.0
+Bassin Pôles 3M,PPG_GRA03,800.0,Verdanson,Ancien Chemin de Montpellier,441.868983322348,0.0
+Bassin Pôles 3M,PPO_FAB01,800.0,Verdanson,Avenue des Variolites,384.030200463532,0.0
+Bassin Pôles 3M,PVL_MSL06,800.0,Verdanson,Avenue des Variolites,887.930544452576,0.0
+Bassin Pôles 3M,PVL_MSL04,800.0,Verdanson,Ch du Val de la Lironde / ch des sarments,583.566603354311,0.0
+Bassin Pôles 3M,PPG_JUV13,2000.0,Hérault,Caunelles,1726.18452715213,0.0
+Bassin Pôles 3M,PVL_JAC04,800.0,Verdanson,Av de Vendargues / rue N. Mandela,267.201201805267,0.0
+Bassin Pôles 3M,PVL_JAC05,800.0,Verdanson,Chemin de la garrigue,439.872999623823,0.0
+Bassin Pôles 3M,PPO_CAL01,4600.0,Verdanson,Avenue des Variolites,987.530120672773,0.0
+Bassin Pôles 3M,PPO_CAL05,1575.0,Verdanson,Avenue des Variolites,1567.5079822367,0.0
+Bassin Pôles 3M,PPO_CEC01,1375.0,Verdanson,Avenue des Variolites,1171.37242537302,0.0
+Bassin Pôles 3M,PPO_CEC03,800.0,Verdanson,Avenue des Variolites,1470.40966381668,0.0
+Bassin Pôles 3M,PPO_CEC05,225.0,Verdanson,Avenue des Variolites,232.245001700478,0.0
+Bassin Pôles 3M,PPO_CEC06,80.0,Verdanson,Avenue des Variolites,173.178885928799,0.0
+Bassin Pôles 3M,PVL_JAC02,1050.0,Verdanson,impasse Dominique Bagouet,767.63792458634,0.0
+Bassin Pôles 3M,PVL_MSL07,1600.0,Verdanson,Ch du Val de la Lironde / ch des sarments,834.365829066235,0.0
+Bassin autre,PVL_JAC07,800.0,Verdanson,"Rue du Clos de Viviers, RD21, près Intermarché et ",30655.7287732487,0.0
+Bassin autre,PCB_VEN08,800.0,Verdanson,Avenue des Variolites,3446.34900152432,0.0
+Bassin Pôles 3M,PVL_CRE01,1000.0,Verdanson,Av des Baléares / Rue de la Camargue,3466.12245663685,0.0
+Bassin Pôles 3M,PVL_JAC03,800.0,Verdanson,"av de Vendargues / Tournesols, Violettes",197.172808919353,0.0
+Bassin Pôles 3M,PVL_JAC06,24.0,Verdanson,Rue Carl Linné près de la crèche,132.542916231707,0.0
+Bassin GEMAPI,PVL_CLA08,375.0,Verdanson,Avenue des Variolites,191.163680825638,0.0
+Bassin Pôles 3M,PVL_MSL02,800.0,Verdanson,Chemin Val Lironde / All Olympe de Gouges,262.301878946485,0.0
+Bassin Pôles 3M,PVL_CLA03,310.0,Verdanson,Avenue des Variolites,289.312603783826,0.0
+Bassin Pôles 3M,PVL_CLA09,470.0,Verdanson,Avenue des Variolites,282.183370937482,0.0
+Bassin Pôles 3M,PVL_CRE09,2730.0,Verdanson,Avenue des Variolites,1099.31422570787,0.0
+Bassin Pôles 3M,PCB_VEN01,800.0,Verdanson,Avenue des Variolites,970.38672755092,0.0
+Bassin Pôles 3M,PCB_VEN02,800.0,Verdanson,Avenue des Variolites,6812.07351046899,0.0
+Bassin Pôles 3M,PCB_VEN03,800.0,Verdanson,Avenue des Variolites,1629.98810596038,0.0
+Bassin Pôles 3M,PPO_CEC07,500.0,Verdanson,Avenue des Variolites,498.339205665878,0.0
+Bassin Pôles 3M,PPO_CEC08,2600.0,Verdanson,Avenue des Variolites,1905.55586509381,0.0
+Bassin Pôles 3M,PPO_CEC09,1800.0,Verdanson,Avenue des Variolites,1528.91780267177,0.0
+Bassin Pôles 3M,PPO_CEC10,825.0,Verdanson,Avenue des Variolites,893.432090303641,0.0
+Bassin Pôles 3M,PPO_CEC11,4600.0,Verdanson,Avenue des Variolites,2946.42823592455,0.0
+Bassin Pôles 3M,PVL_CLL20,3400.0,Verdanson,Avenue des Variolites,1862.49082575932,0.0
+Bassin Pôles 3M,PVL_MSL03,2500.0,Verdanson,allée Olympe de Gouges,1498.56467282881,0.0
+Bassin Pôles 3M,PVL_CRE08,5780.0,Verdanson,Avenue des Variolites,1743.11151834665,0.0
+Bassin Pôles 3M,PPO_PIG03,9600.0,Verdanson,Avenue des Variolites,7271.69406220341,0.0
+Bassin Pôles 3M,PPO_PIG04,8775.0,Verdanson,Avenue des Variolites,6339.08539753095,0.0
+Bassin Pôles 3M,PPO_PIG05,11500.0,Verdanson,Avenue des Variolites,6306.87837274833,0.0
+Bassin Pôles 3M,PCB_VEN09,800.0,Verdanson,Avenue des Variolites,272.153609347684,0.0
+Bassin Pôles 3M,PCB_VEN10,800.0,Verdanson,Avenue des Variolites,392.288204535223,0.0
+Bassin Pôles 3M,PVL_CLL18,800.0,Verdanson,Avenue des Variolites,12011.76389445,0.0
+Bassin Pôles 3M,PVL_CLL19,6474.0,Verdanson,Avenue des Variolites,6565.48039222303,0.0
+Bassin Pôles 3M,PPO_CAL09,800.0,Verdanson,Avenue des Variolites,984.177169522634,0.0
+Bassin Pôles 3M,PCB_BAI08,800.0,Verdanson,Avenue des Variolites,789.22716351825,0.0
+Bassins Enterré,BR2,800.0,Verdanson,Avenue des Variolites,331.515538869383,0.0
+Bassins Enterré,BR3,800.0,Verdanson,Avenue des Variolites,295.336403927015,0.0
+Bassin Pôles 3M,PPO_FAB02,1320.0,Verdanson,Avenue des Variolites,897.190056321661,0.0
+Bassin Pôles 3M,PCB_VEN07,2212.0,Verdanson,Avenue des Variolites,1025.45627700687,0.0
+Bassin GEMAPI,PCB_VEN05,800.0,Verdanson,Avenue des Variolites,6246.29457413209,0.0
+Bassin Pôles 3M,PPO_SJV03 (43800m3),800.0,Verdanson,Avenue des Variolites,23981.1809840862,0.0
+Bassin Pôles 3M,PPO_FAB09,800.0,Verdanson,Avenue des Variolites,813.323707939466,0.0
+Bassin Pôles 3M,PPO_FAB10,800.0,Verdanson,Avenue des Variolites,1103.69683583559,0.0
+Bassin Pôles 3M,PPO_FAB11,2900.0,Verdanson,Avenue des Variolites,550.199882921135,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1704.54382807959,0.0
+Bassin Pluvial,Garosud extention,800.0,Verdanson,Avenue des Variolites,4584.91933283285,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,819.328558506716,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,99.4286625005657,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,137.604537713854,0.0
+Bassin autre,Bassin enterré,800.0,Verdanson,Avenue des Variolites,31.0178546850421,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,12405.0353916096,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1573.24408042144,0.0
+Bassin Pôles 3M,PCB_BAI09,800.0,Verdanson,Avenue des Variolites,914.499289243552,0.0
+Bassin Pôles 3M,PCB_SBR03,30000.0,Verdanson,Avenue des Variolites,21653.9389732219,0.0
+Bassin autre,PVL_CLL26,800.0,Verdanson,Avenue des Variolites,1054.12894330621,0.0
+Bassin Pôles 3M,PPO_SAU03,950.0,Verdanson,Avenue des Variolites,648.307879069325,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1680.28552652815,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,233.390402698376,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1292.88280314353,0.0
+Bassins Enterré,BR1,800.0,Verdanson,Avenue des Variolites,1169.52802447818,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,6577.19966884554,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,6599.67745797679,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,77060.8071818092,0.0
+Bassin Pôles 3M,PCB_SBR01,470.0,Verdanson,Avenue des Variolites,602.406983666655,0.0
+Bassin Pôles 3M,PCB_BAI07,800.0,Verdanson,Avenue des Variolites,7389.22875317841,0.0
+Bassin Pôles 3M,PCB_SBR02,25600.0,Verdanson,Avenue des Variolites,14195.7495572655,0.0
+Bassin Pôles 3M,PCB_BAI11,800.0,Verdanson,Avenue des Variolites,190.202337683883,0.0
+Bassin Pôles 3M,PVL_JAC10,300.0,Verdanson,Rue Antoine Blanchemain,921.403962039654,0.0
+Bassins Enterré,BR4,800.0,Verdanson,Avenue des Variolites,226.989271671221,0.0
+Bassins Enterré,BR5,800.0,Verdanson,Avenue des Variolites,314.211117049783,0.0
+Bassin Pôles 3M,PPO_CAL12,1512.0,Verdanson,Avenue des Variolites,1364.53780616542,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,143.567490916381,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,2298.74001981741,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,538.372038085357,0.0
+Bassin GEMAPI,Malbosc 3,800.0,Verdanson,Avenue des Variolites,1476.50388518905,0.0
+Bassin GEMAPI,Marels,800.0,Lironde,Avenue des Variolites,7354.49886613205,0.0
+Bassin GEMAPI,Ovalie,800.0,Rieucoulon,Avenue des Variolites,20333.6405726615,0.0
+Bassin GEMAPI,PVL_CLA06,15165.0,Verdanson,Avenue des Variolites,3893.80337520768,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,36.7371550931611,0.0
+Bassins Enterré,Place Eugène Bataillon,770.0,Verdanson,Avenue des Variolites,707.501740738344,0.0
+Bassins Enterré,Place Eugène Bataillon,90.0,Verdanson,Avenue des Variolites,67.0919231645906,0.0
+Bassins Enterré,Place Eugène Bataillon,225.0,Verdanson,Avenue des Variolites,169.475488544222,0.0
+Bassins Enterré,Place Eugène Bataillon,261.0,Verdanson,Avenue des Variolites,194.234719678382,0.0
+Bassins Enterré,Place Eugène Bataillon,340.0,Verdanson,Avenue des Variolites,252.735107216097,0.0
+Bassin Pôles 3M,PVL_CLL27,800.0,Verdanson,Avenue des Variolites,2531.97079750308,0.0
+Bassins Enterré,Place Eugène Bataillon,180.0,Verdanson,Avenue des Variolites,133.753672587237,0.0
+Bassins Enterré,Place Eugène Bataillon,261.0,Verdanson,Avenue des Variolites,194.556452653421,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,2026.90990710145,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1896.89176845156,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,986.287007605278,0.0
+Bassin Pôles 3M,PPO_SJV14,1200.0,Verdanson,Avenue des Variolites,980.804465173999,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,487.883736188488,0.0
+Bassin autre,PPO_FAB08,800.0,Verdanson,Avenue des Variolites,1186.02058887914,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,372.850958952616,0.0
+Bassin Pôles 3M,PPO_CAL11,2150.0,Verdanson,Avenue des Variolites,2440.15093673367,0.0
+Bassins Enterré,Séparateur Hydrocarbures 950SP,800.0,Verdanson,Avenue des Variolites,18.7924519187483,0.0
+Bassin Pôles 3M,PL_VIL10,800.0,Verdanson,Avenue des Variolites,7134.97480059328,0.0
+Bassins Enterré,Place Eugène Bataillon,90.0,Verdanson,Avenue des Variolites,94.0210843497693,0.0
+Bassins Enterré,Place Eugène Bataillon,235.0,Verdanson,Avenue des Variolites,233.228996939621,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,3009.9915546125,0.0
+Bassin Pôles 3M,PL_PER15,1500.0,Verdanson,Rue Grenache,1767.20890959906,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,877.153661344357,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,21.1306404465272,0.0
+Bassin autre,ASF,800.0,Lantissargues,A709,1569.10181989975,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,187.909048945058,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,2380.51560328732,0.0
+Bassin GEMAPI,PVL_CLL14,800.0,Verdanson,Avenue des Variolites,28318.083440098,0.0
+Bassin Pôles 3M,PVL_CLA12,800.0,Verdanson,Avenue du Castelet,2106.17434667171,0.0
+Bassin Pôles 3M,PVL_CLA07,950.0,Verdanson,Avenue des Variolites,853.320079116109,0.0
+Bassin Pôles 3M,PVL_CLL23,800.0,Verdanson,Avenue des Variolites,347.264041999832,0.0
+Bassin Pôles 3M,PL_PER12,600.0,Verdanson,Rue de la Salicorne,1310.85226803674,0.0
+Bassin Pôles 3M,PPG_JUV06,2000.0,Verdanson,Allée des Thermes,1060.29711353575,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,61.0998763988788,0.0
+Bassin Pôles 3M,PL_PER01,300.0,Verdanson,Rue des Naïades,451.377373945625,0.0
+Bassin Pôles 3M,PPG_JUV10,1000.0,Verdanson,Rue de la Cerisaie,3697.1224953132,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,35.9122827918413,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1466.73478964197,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,2677.23440517361,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1081.52785448907,0.0
+Bassins Enterré,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,382.550839158777,0.0
+Bassins Enterré,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,368.677264293707,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1406.74640695165,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,4846.21333175522,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,733.190240521475,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,659.56469286418,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,4773.10602823137,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,2694.64509909193,0.0
+Bassins Enterré,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,367.467743493573,0.0
+Bassin Pôles 3M,PCB_CAS11,800.0,Verdanson,Avenue des Variolites,2190.0370185393,0.0
+Bassin Pôles 3M,PCB_CAS12,800.0,Verdanson,Avenue des Variolites,1231.98023062009,0.0
+Bassin Pôles 3M,PPG_JUV02,1000.0,Verdanson,rue des Jardins du Perret,1095.92965861065,0.0
+Bassins Enterré,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,116.948756809039,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,159.071737311709,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,331.789277550819,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1549.25178522682,0.0
+Bassins Enterré,Place Eugène Bataillon,235.0,Verdanson,Avenue des Variolites,124.497901012157,0.0
+Bassins Enterré,Ikéa,800.0,Verdanson,Mail piétonnier Odysséum,477.015857571006,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,490.480681598012,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,464.236570771833,0.0
+Bassin Pôles 3M,PCB_VEN12,800.0,Verdanson,Avenue des Variolites,855.533206879852,0.0
+Bassin Pôles 3M,PPO_CAL02,800.0,Verdanson,Avenue des Variolites,193.863009392307,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,430.683158919085,0.0
+Bassin Pôles 3M,PL_VIL08,2000.0,Verdanson,Rue des Genêts,2362.72310107197,0.0
+Bassin Pôles 3M,PL_VIL09,800.0,Verdanson,Rue des Genêts,534.409374716653,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,894.301590332498,0.0
+Bassin Pôles 3M,PVL_CRE11,800.0,Verdanson,Avenue des Variolites,432.187209741633,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1947.10034236435,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,191.324038927642,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,93.4386656831052,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,110.759109491452,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,65.8966081812053,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,2516.72755320403,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,846.301426973376,0.0
+Bassin Pôles 3M,PVL_CRE12,800.0,Verdanson,Avenue des Variolites,1254.80305346981,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,129.818677606559,0.0
+Bassins Enterré,Voie d'O,800.0,Verdanson,Place de la Voie Domitienne,2755.88598409359,0.0
+Bassin Pôles 3M,PVL_CRE13,800.0,Verdanson,Avenue des Variolites,768.271469039385,0.0
+Bassin Pôles 3M,PCB_BAI06,800.0,Verdanson,Chemin de la Bohème,1110.96424826614,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,57.1322994119408,0.0
+Bassin Pôles 3M,PCB_SGM07,800.0,Verdanson,Avenue des Variolites,46.222852173478,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1369.84635539278,0.0
+Bassin Pôles 3M,PPO_FAB12,800.0,Verdanson,Avenue des Variolites,109.620802431872,0.0
+Bassin Pôles 3M,PPO_FAB13,800.0,Verdanson,Avenue des Variolites,70.0991639548345,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,155.79384343927,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,976.52873637151,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,920.520740474309,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,296.965559947743,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,359.885823377551,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1094.12071055463,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,457.339900594299,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,67.4294819472554,0.0
+Bassin Pôles 3M,PVL_CRE07,1225.0,Verdanson,Avenue des Variolites,342.725933826328,0.0
+Bassin Pôles 3M,PVL_JAC01,200.0,Verdanson,av de Vendargues / rue Hélios,62.2520841589092,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,11242.0806991448,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1743.33820458811,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1051.98424792617,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,520.114116299078,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,55.8944571807467,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,626.739753666839,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,154.118010599386,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,4940.99285283792,0.0
+Bassin Pôles 3M,PPG_GRA14,800.0,Verdanson,Avenue des Variolites,1161.97086197811,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,731.792847563589,0.0
+Bassin Pôles 3M,PPO_FAB14,800.0,Verdanson,Avenue des Variolites,676.519316656917,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,473.256475945,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,252.688352242986,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,2170.06203373473,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,340.125758712595,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,275.314614306811,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,184.506440596283,0.0
+Bassin GEMAPI,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,15540.938461084,0.0
+Bassin GEMAPI,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,29006.8308561062,0.0
+Bassin GEMAPI,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,24844.9565948138,0.0
+Bassin GEMAPI,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,12995.6727191374,0.0
+Bassin GEMAPI,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,34214.3048315399,0.0
+Bassin GEMAPI,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1598.60892021027,0.0
+Bassin GEMAPI,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,417.976417209093,0.0
+Bassin GEMAPI,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,68753.4749712312,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,8590.54200126197,0.0
+Bassin autre,Privé,800.0,Verdanson,Avenue des Variolites,52.6711923452284,0.0
+Bassin autre,Privé,800.0,Verdanson,Avenue des Variolites,526.779780739224,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,344.126058313193,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,551.832092195021,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,384.104434216708,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,85.7876805544128,0.0
+Bassin Pôles 3M,PCB_VEN13,800.0,Verdanson,Avenue des Variolites,794.440074748989,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,473.313977970239,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,415.334578803092,0.0
+Bassin Pôles 3M,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,112.974595874529,0.0
+Bassin Pôles 3M,PPO_FAB15,800.0,Verdanson,Avenue des Variolites,2846.07548232577,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,39.4167011787727,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,3226.99955152262,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,249.153142450488,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,8372.54214265612,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,191.65376172285,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,473.770214735386,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,612.52448452667,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1139.69326433422,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,2188.73978020571,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,3706.94072227906,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,35.6340228653065,0.0
+Bassin Pôles 3M,PVL_MSL08,800.0,Verdanson,Avenue des Variolites,132.449240106435,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,171.55700839297,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,477.619771686715,0.0
+Bassins Enterré,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,10.9336408392157,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,360.95430905816,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1408.0908571064,0.0
+Bassin Pôles 3M,PVL_CLA13,800.0,Verdanson,Boulevard de la Liberté,540.23165829227,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,75.9491429198384,0.0
+Bassin Pôles 3M,PVL_CLA02,1880.0,Verdanson,Rue Bizet,2595.07074029959,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,417.190956809352,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,391.000820437594,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,67.066908384337,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,623.576923359194,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,294.814730244977,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,55.6450248725151,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,363.75115819621,0.0
+Bassin Pluvial,Tram L5,800.0,Combe de la Valette,Avenue des Variolites,2358.61202611051,0.0
+Bassin Pôles 3M,PPO_SAU01,1440.0,Verdanson,Avenue des Variolites,3789.89571171327,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,2008.07511309855,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,3776.64183351938,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1363.23540806759,0.0
+Bassin Pôles 3M,PPO_SAU02,800.0,Verdanson,Avenue des Variolites,689.28053514143,0.0
+Bassin Pôles 3M,PVL_CLL29,800.0,Verdanson,Avenue des Variolites,410.895838675417,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,803.675755574887,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,524.597919312349,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,44.1937030842808,0.0
+Bassin Pôles 3M,PPO_CEC12,800.0,Verdanson,Avenue des Variolites,319.215932808206,0.0
+Bassin Pôles 3M,PPO_CEC13,800.0,Verdanson,Avenue des Variolites,325.141953346174,0.0
+Bassin Pôles 3M,PPO_CEC14,800.0,Verdanson,Avenue des Variolites,376.80143696643,0.0
+Bassin Pôles 3M,PPO_CEC15,800.0,Verdanson,Avenue des Variolites,340.729615147878,0.0
+Bassin Pôles 3M,PVL_CLL13,3000.0,Verdanson,Rue Champs Juvénal,4509.37222294675,0.0
+Bassin Pôles 3M,PVL_CLL09,150.0,Verdanson,Rue du Languedoc,133.011777914857,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,602.625665749831,0.0
+Bassin Pôles 3M,PVL_CLL12,1900.0,Verdanson,Chemin des Muriers / Imp de la Côte d'Or,1656.88039159312,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,102.124017512013,0.0
+Bassins Enterré,Cuve de dépollution,800.0,Verdanson,Avenue des Variolites,27.0741180793024,0.0
+Bassins Enterré,Séparateur hydrocarbure,800.0,Verdanson,Avenue des Variolites,13.4029894562737,0.0
+Bassin Pôles 3M,PPO_SAU05,800.0,Verdanson,Rue des Valautres,5309.36463222865,0.0
+Bassin Pôles 3M,PVL_CLL01,3500.0,Verdanson,Av.René Couveinhes,2331.98954363197,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,722.605933530256,0.0
+Bassin Pôles 3M,PVL_CLL22,800.0,Verdanson,Avenue des Variolites,740.425652634978,0.0
+Bassins Enterré,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,79.3755333842686,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,160.996328835871,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,2492.23066847181,0.0
+Bassin autre,Séparateur hydrocarbure,800.0,Verdanson,Avenue des Variolites,4.63396706275071,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,500.151147034462,0.0
+Bassin Pôles 3M,PVL_CLL16,700.0,Verdanson,Av Georges Frêche / RP chemin de Verchant,1122.37819988515,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,291.849838530961,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,267.585571970868,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,3224.03313939856,0.0
+Bassin Pôles 3M,PVL_CLL30,800.0,Verdanson,Avenue des Variolites,384.311262881839,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,152.180644344105,0.0
+Bassin Pôles 3M,PVL_CLL15,2500.0,Verdanson,Chemin de Verchant,3416.38032923754,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,61.8703722351868,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,293.900796543062,0.0
+Bassin Pôles 3M,PVL_CLL31,1063.0,Verdanson,Avenue des Variolites,1107.99485926421,0.0
+Bassin Pôles 3M,PVL_CLL05,3000.0,Verdanson,Av.du Devois,2690.60520090663,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,41.3555570901894,0.0
+Bassin Pôles 3M,PVL_CLL21,800.0,Verdanson,Avenue des Variolites,1502.89524472951,0.0
+Bassins Enterré,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,215.546607117024,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,2444.70302788369,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,2866.58211440742,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,268.282661106303,0.0
+Bassins Enterré,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,472.25528687969,0.0
+Bassin Pôles 3M,PVL_CLL03,5400.0,Verdanson,RD65E,1926.33681954558,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,94.5325527288334,0.0
+Bassin Pôles 3M,PVL_CLL06,7500.0,Verdanson,Rue des Tritons ,2402.65164048627,0.0
+Bassin Pôles 3M,PVL_CRE14,800.0,Verdanson,Avenue des Variolites,2934.59423637504,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,6211.19285605939,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,2331.92726123556,0.0
+Bassins Enterré,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,60.7260183592719,0.0
+Bassin Pôles 3M,PVL_CLL02,800.0,Verdanson,RD65E,2008.93500617089,0.0
+Bassins Enterré,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,5.63268674278455,0.0
+Bassin Pôles 3M,PVL_MSL09,800.0,Verdanson,Avenue des Variolites,79.4471003268783,0.0
+Bassin Pôles 3M,PVL_MSL10,800.0,Verdanson,Avenue des Variolites,202.562618759448,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,160.641142857536,0.0
+Bassin autre,Extension L1,800.0,Verdanson,Avenue des Variolites,473.495635995992,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,71.4571126988793,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,137.452541664465,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1011.80901762039,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,161.726024324794,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,159.541359055984,0.0
+Bassin Pôles 3M,PVL_PDL06,2500.0,Verdanson,rue Alexandra David Neel  / rue Olympe de Gouge,2655.39243499973,0.0
+Bassin Pôles 3M,PVL_MSL01,800.0,Verdanson,allée des Vignes,1069.47339027057,0.0
+Bassin Pôles 3M,PVL_CLA14,800.0,Verdanson,Avenue des Variolites,1423.35762138998,0.0
+Bassin Pôles 3M,PVL_CLA15,800.0,Verdanson,Avenue des Variolites,2232.49578673521,0.0
+Bassin Pôles 3M,PVL_CLA11,800.0,Verdanson,Avenue des Variolites,1441.37405171328,0.0
+Bassin Pôles 3M,PL_LAT01 ,3000.0,Verdanson,Av. du Cap,1797.27617745007,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,410.505144472837,0.0
+Bassin Pôles 3M,PL_LAT03,100.0,Verdanson,Rue des Vignes,92.7051296351462,0.0
+Bassin Pôles 3M,PPO_CAL04,11200.0,Verdanson,Avenue des Variolites,3714.74214086608,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,612.210397135561,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,766.00173879719,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,438.022421948886,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,884.543617160393,0.0
+Bassin Pôles 3M,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,760.947145901218,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1850.1982162272,0.0
+Bassin GEMAPI,PVL_CRE02,13000.0,Verdanson,Avenue du Mistral / D65,7503.51756244017,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,386.889720358122,0.0
+Bassin Pôles 3M,PPG_JUV11,6670.0,Verdanson,Avenue des Variolites,2421.87566045773,0.0
+Bassin autre,Place Eugène Bataillon,800.0,Verdanson,Avenue des Variolites,1141.07710199077,0.0
+Bassin Pôles 3M,PL_LAT05,800.0,Verdanson,Avenue des Variolites,5664.45547042347,0.0
